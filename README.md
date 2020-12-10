@@ -12,6 +12,7 @@ this is change 4
 
 
 this is change5
+<!DOCTYPE html>
 <html>
   <head>
     <title>This is Web page</title>
